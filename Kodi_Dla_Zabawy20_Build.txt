@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KDZ Build20" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/tc6ejpfr8vr5hpuzhsh9h/niby-z-tapetami.zip?rlkey=44p0e0hdxgvfb0qiqdgnrimfm&dl=1"
+url="https://www.dropbox.com/scl/fi/agzzq9xux7jyoxa1o2wcc/kodi21.zip?rlkey=pden9pja6ikmsw0fd9e5pm025&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
