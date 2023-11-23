@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KDZ Build20" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/5dacup5mpwe93hqf288uk/KODI-DLA-ZABAWYSKO-CZONE.zip?rlkey=r869xvq1ezto8x8j5zibgdhy8&dl=1"
+url="https://www.dropbox.com/scl/fi/j79e2alj5vw0u8n7rk8h7/KODI-DLA-ZABAWY.zip?rlkey=n4xw8ivyk7az0np4es9vs551p&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
