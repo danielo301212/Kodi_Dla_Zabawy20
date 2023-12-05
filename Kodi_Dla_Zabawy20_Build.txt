@@ -22,7 +22,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KDZ Build20 rekiny" 
 version="1.0.1" 
-url="https://www.dropbox.com/scl/fi/w1clyw3gvz7eo3tusp300/rekiny-KDZ.zip?rlkey=dpm668m523gboofu3wazcv0bv&dl=1"
+url="https://www.dropbox.com/scl/fi/pcwshzfg9zbxf2amyzxxy/rekin.zip?rlkey=zcm5jt7pdrl7eexwhufpghqge&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
