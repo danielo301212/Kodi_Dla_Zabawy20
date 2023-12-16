@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KDZ Build20 kosmos" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fi/q1uryrnsr2gc60pu9tuo2/kosmos-kdz.zip?rlkey=eic9ogsjzr9a9z9ko7apibbn8&dl=1"
+url="https://www.dropbox.com/scl/fi/jcrlg6ibu3b31etveos6x/KDZ-KOSMOS.zip?rlkey=waxhb2107kz2rz873sa6p5j8s&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
